@@ -272,7 +272,7 @@
                     <div class="projects-section">
                         <div>
                             <div class="project-card">
-                                <img src="{{ asset('images/millow.png') }}" alt="Millow">
+                                <img src="images/millow.png" alt="Millow">
                                 <div class="project-overlay">
                                     <a href="https://github.com/shivansh324/Millow" target="_blank"
                                         class="project-link">
