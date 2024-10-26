@@ -146,7 +146,7 @@
                 <!-- Experience -->
                 <div class="tab-pane fade show active experience-section" id="experience" role="tabpanel">
                     <div class="resume-button">
-                        <a href="https://drive.google.com/file/d/1ZYAfy6ARiFNaFXrioe2C7tCUnettE_zt/view?usp=drive_link"
+                        <a href="https://drive.google.com/file/d/1MTGjjNmkzRLTYd2pWLZPXqkc4OzHy9NB/view?usp=sharing"
                             class="download-resume"><i class="fas fa-folder"></i> Download Resume</a>
                     </div>
                     <div>
