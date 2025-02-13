@@ -159,7 +159,7 @@
                                 <div class="experience-content">
                                     <h4 class="experience-position">Intern</h4>
                                     <p class="company-name">VTS Infosoft PVT. LTD.</p>
-                                    <p class="experience-duration">Jun '24 – Sep '24</p>
+                                    <p class="experience-duration">Jan '25 – Present</p>
                                     <ul>
                                         <li>
                                             <p class="experience-details"> Contributing to a new project by developing
