@@ -157,6 +157,20 @@
                             <div class="experience-item">
                                 <div class="timeline-dot"></div>
                                 <div class="experience-content">
+                                    <h4 class="experience-position">Intern</h4>
+                                    <p class="company-name">VTS Infosoft PVT. LTD.</p>
+                                    <p class="experience-duration">Jun '24 – Sep '24</p>
+                                    <ul>
+                                        <li>
+                                            <p class="experience-details"> Contributing to a new project by developing
+                                                and optimizing backend systems for scalable performance.</p>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="experience-item">
+                                <div class="timeline-dot"></div>
+                                <div class="experience-content">
                                     <h4 class="experience-position">Web Developer Intern</h4>
                                     <p class="company-name">Ixambee</p>
                                     <p class="experience-duration">Jun '24 – Sep '24</p>
