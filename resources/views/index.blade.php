@@ -146,7 +146,7 @@
                 <!-- Experience -->
                 <div class="tab-pane fade show active experience-section" id="experience" role="tabpanel">
                     <div class="resume-button">
-                        <a href="https://drive.google.com/file/d/1HHqdHN4YoCshtrx6IKf87a-ggoGZtfc4/view?usp=drive_link"
+                        <a href="https://drive.google.com/file/d/1tHcssbxllJWurDAKar-IE_Fk6z3t-epp/view?usp=drive_link"
                             class="download-resume"><i class="fas fa-folder"></i> Download Resume</a>
                     </div>
                     <div>
@@ -162,8 +162,19 @@
                                     <p class="experience-duration">Jan '25 – Present</p>
                                     <ul>
                                         <li>
-                                            <p class="experience-details"> Contributing to a new project by developing
-                                                and optimizing backend systems for scalable performance.</p>
+                                            <p class="experience-details"> Developed an Indent Management System to
+                                                automate purchase requests, approvals, and API integration with
+                                                Microsoft Business Central, handling 500k+ item records and delivering
+                                                it solo under team lead’s guidance.
+                                            </p>
+                                        </li>
+                                        <li>
+                                            <p class="experience-details">
+                                                Building a Recruitment Module to streamline the hiring process,
+                                                including interview scheduling, reminder emails,
+                                                and document collection, with automated workflows and seamless
+                                                integration.
+                                            </p>
                                         </li>
                                     </ul>
                                 </div>
